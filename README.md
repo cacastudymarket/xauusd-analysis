@@ -38,7 +38,6 @@ This project focuses on applying basic **data analysis** and **machine learning*
 | Data     | Pandas, Numpy |
 | Viz      | Matplotlib, Seaborn, mplfinance |
 | ML       | Scikit-learn |
-| Bonus    | Streamlit (for dashboard) |
 
 ---
 
@@ -74,15 +73,15 @@ This project focuses on applying basic **data analysis** and **machine learning*
 - No position stacking, no fees
 
 ### 🧾 Result:
-- Final Value: ~$10,932
-- Profit: ~$932
-- Total Trades: (varies based on signal count)
+- Final Value: ~$11,258.26
+- Profit: ~$1,258.26
+- Total Trades: 121 kali
 
----
+## 📬 Contact / Portfolio
 
-## 📊 (Optional) Streamlit Dashboard
+Feel free to connect or view more projects through my social platforms:
 
-> A simple interactive app was optionally developed using `streamlit` to display gold prices, indicators, predictions, and trading performance.
+- 🐙 [GitHub](https://github.com/cacastudymarket)
+- 📸 [Instagram](https://instagram.com/cahyaratry__)
+- 💼 [LinkedIn](https://linkedin.com/in/cahyaratrilukitaputri)
 
-```bash
-streamlit run app.py
